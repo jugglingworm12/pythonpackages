@@ -1,5 +1,5 @@
 site_name: ECS Python Packages
-site_url: "https://github.com/jugglingworm12/pythonpackages"
+site_url: "https://jugglingworm12.github.io/pythonpackages/"
 nav:
   - Home : 'index.md'
   - 'kafkautil-ecs' : 
