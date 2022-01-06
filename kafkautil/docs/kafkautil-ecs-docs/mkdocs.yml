@@ -1,0 +1,11 @@
+site_name: ECS Python Packages
+site_url: "https://github.com/jugglingworm12/pythonpackages"
+nav:
+  - Home : 'index.md'
+  - 'kafkautil-ecs' : 
+    - 'Guide': 'guide-kafkautil.md'
+    - 'Code': 'kafkautil-code.md'
+    - 'License': 'LICENSE.md'
+theme:
+    name: mkdocs
+    nav_style: dark

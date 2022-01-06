@@ -1,0 +1,8 @@
+kafkautil.py
+setup.py
+kafkautil.egg-info/PKG-INFO
+kafkautil.egg-info/SOURCES.txt
+kafkautil.egg-info/dependency_links.txt
+kafkautil.egg-info/entry_points.txt
+kafkautil.egg-info/requires.txt
+kafkautil.egg-info/top_level.txt
