@@ -6,6 +6,10 @@
 
 This is a command line (CLI) tool built in python for simple testing of kafka connections. This tool is used in command line interface, with three different commands.
 
+## Author
+
+This package was authored by Ryan Gilmore, Data Scientist at ECS Federal
+
 ## Installation
 
 This package is available python's Pypi repository, therefore it can be installed using pip. There is only one version currently available v. 1.0.0.
